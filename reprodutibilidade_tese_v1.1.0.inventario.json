@@ -1,0 +1,456 @@
+{
+  "version": "1.1.0",
+  "file": "reprodutibilidade_tese_v1.1.0.zip",
+  "bytes": 5142186,
+  "sha256": "498f51313ed4871c8823f7b50f37ce534393970ad75d7f4b16b051d08a0afdf6",
+  "members": [
+    {
+      "path": "reprodutibilidade_tese/.gitignore",
+      "bytes": 106,
+      "sha256": "2afca710df9f6745a9a4bf3114b1c650d51abdc88db6b95d1bb565d655661bb2"
+    },
+    {
+      "path": "reprodutibilidade_tese/ALTERACOES.md",
+      "bytes": 1304,
+      "sha256": "501dadff5defe74ff7ae0476a3b6af3b89e19040ec1b1724e62a516c008c2f25"
+    },
+    {
+      "path": "reprodutibilidade_tese/dados/brutos/E01/sensor_readings_cloud_full_export.csv",
+      "bytes": 2224774,
+      "sha256": "f391319e8cf4b51a3e66da115d67141457b65ff0a4bd71b835629069a4c4d9f6"
+    },
+    {
+      "path": "reprodutibilidade_tese/dados/brutos/E01R/sensor_readings_cloud_full_export.csv",
+      "bytes": 8653512,
+      "sha256": "bd763599a1b87c974d4b545a340ad07314f11c8243a4a49f68d212f9c6f93056"
+    },
+    {
+      "path": "reprodutibilidade_tese/dados/brutos/E02/sensor_readings_cloud_full_export.csv",
+      "bytes": 9257573,
+      "sha256": "316f509ff3c8d6be94dd5412de06cd39f6c722fa6f58ca7178d0ecd43c6b4f88"
+    },
+    {
+      "path": "reprodutibilidade_tese/dados/brutos/E03/sensor_readings_cloud_full_export.csv",
+      "bytes": 9253694,
+      "sha256": "b947880e6c5df47f51e3afd7534f4f9bb1d6c762948f1571abb37b1aa2f16df6"
+    },
+    {
+      "path": "reprodutibilidade_tese/dados/brutos/E06/sensor_readings_cloud_full_export.csv",
+      "bytes": 10897110,
+      "sha256": "c839451daebc8c1008dbcf3f38ed624f69a578504eccb93c532a916a9f5c2571"
+    },
+    {
+      "path": "reprodutibilidade_tese/dados/brutos/E09B/sensor_readings_cloud_full_export.csv",
+      "bytes": 3195739,
+      "sha256": "5783014af86d53a1cf29278a86fa81a881b74e0e0bbbba45dee68b9ccaa2f195"
+    },
+    {
+      "path": "reprodutibilidade_tese/dados/brutos/E09C/sensor_readings_cloud_full_export.csv",
+      "bytes": 2721924,
+      "sha256": "da0332c7669c31c7013c05eb6dd693689db9b2bb2822d61f4ae872cf6378dfe6"
+    },
+    {
+      "path": "reprodutibilidade_tese/dados/brutos/E11/sensor_readings_cloud_full_export.csv",
+      "bytes": 15537167,
+      "sha256": "9a5d3b612879892fb54e144b5eb2122c4b968580191d2518349f6ee7b244a249"
+    },
+    {
+      "path": "reprodutibilidade_tese/dados/brutos/E12/edge_delivery_audit_3state.jsonl",
+      "bytes": 320675,
+      "sha256": "c60d58e56df4c5833808df32b202e8b6ff70424e814ea7f6b10135b766022ad4"
+    },
+    {
+      "path": "reprodutibilidade_tese/dados/brutos/E12/sensor_readings_cloud_full_export.csv",
+      "bytes": 3181530,
+      "sha256": "e1fedb90d405cdd8b6b0e6406b53c0c5cab6743181319cd0332ac1fc186fdd17"
+    },
+    {
+      "path": "reprodutibilidade_tese/dados/brutos/E12D/edge_delivery_audit_3state.jsonl",
+      "bytes": 292880,
+      "sha256": "020ecf29373f2f35106bec3d9036187f987908d2078de894197945a7506528eb"
+    },
+    {
+      "path": "reprodutibilidade_tese/dados/brutos/E12D/sensor_readings_cloud_full_export.csv",
+      "bytes": 2272140,
+      "sha256": "c487098bab48523de285daa27a5b42df493e1cb0d7ac53f04ddad22bbf9cf4cc"
+    },
+    {
+      "path": "reprodutibilidade_tese/dados/brutos/E13/edge_delivery_audit_3state.jsonl",
+      "bytes": 4566255,
+      "sha256": "f21e8eb446c7d67312debd8d5679ec97e7157de9110334c079157db5e6912846"
+    },
+    {
+      "path": "reprodutibilidade_tese/dados/brutos/E13/operator_events.csv",
+      "bytes": 551,
+      "sha256": "935109c7958da139e83caf44fa2df3a61ed321f27b193cf7c24a38865a02dbcd"
+    },
+    {
+      "path": "reprodutibilidade_tese/dados/brutos/E13/sensor_readings_cloud_full_export.csv",
+      "bytes": 35820789,
+      "sha256": "15e8335f1bbd1c8f3efe2485f4640c20789b368b3f6c7d0d9b1c6cf65d720ffd"
+    },
+    {
+      "path": "reprodutibilidade_tese/dados/brutos/E14/e14_onoff_shadow_control_decisions.csv",
+      "bytes": 306628,
+      "sha256": "60de4083e354e36d4a6774ac9804472537e381638efaf4a6691ee1b372c991b2"
+    },
+    {
+      "path": "reprodutibilidade_tese/dados/brutos/E14/operator_events.csv",
+      "bytes": 130,
+      "sha256": "01be97597c7996ea6149e2b5b1598e718b1008ff1cbd738920bd6a624336c4ac"
+    },
+    {
+      "path": "reprodutibilidade_tese/dados/brutos/E14/sensor_readings_cloud_full_export.csv",
+      "bytes": 18561831,
+      "sha256": "fe731ffd7fad89db1b1e8c6e10b94d9af5296d8bd8797428df26cf4d01708bd8"
+    },
+    {
+      "path": "reprodutibilidade_tese/dados/exclusoes.json",
+      "bytes": 1111,
+      "sha256": "3eb2760a2007fdf1f65d362b06c89a4206a1687f7ce326f8a81f91ed160a27f4"
+    },
+    {
+      "path": "reprodutibilidade_tese/dados/fontes.json",
+      "bytes": 2294,
+      "sha256": "c549eeeec700aac9119e8ca4451df175287fa13d9014b9a87faf87f91928917a"
+    },
+    {
+      "path": "reprodutibilidade_tese/dados/manifesto.json",
+      "bytes": 12055,
+      "sha256": "96f98046d22f386dc1a3e6d13be3b9b5a2d7f172603f2f045543cb0490b54298"
+    },
+    {
+      "path": "reprodutibilidade_tese/dados/MANIFESTO.md",
+      "bytes": 7032,
+      "sha256": "6299885a0b053b57679ec5dacb43c56dc4e5de5339dcbe43bb578579f3fcff6f"
+    },
+    {
+      "path": "reprodutibilidade_tese/dados/series_preservadas/E13/exp5_cloud_three_state_digital_twin.csv",
+      "bytes": 3186381,
+      "sha256": "0ba4691470c2d5014cbc59d90abdc9bc77d7f3710c6392ab0decdc86403fa8a5"
+    },
+    {
+      "path": "reprodutibilidade_tese/dados/series_preservadas/E14/exp5_cloud_three_state_digital_twin.csv",
+      "bytes": 1568478,
+      "sha256": "d0230dee0fb6579682c2a33a5c5f1afc871999c0e8a62d85df3f4615d0d351d6"
+    },
+    {
+      "path": "reprodutibilidade_tese/esperado/fontes/resumo_historico_experimentos_3state.csv",
+      "bytes": 13015,
+      "sha256": "8efaac1248d0298f5b999cd41349c9b8e282f65b97c4595e1926fac58318c05c"
+    },
+    {
+      "path": "reprodutibilidade_tese/esperado/valores_tese.json",
+      "bytes": 23542,
+      "sha256": "271ae0603e7a47f888ff9d5f0c03eed1a39b746dee9ff54bc4fab612e8dbee04"
+    },
+    {
+      "path": "reprodutibilidade_tese/historico/LEIA_ME.md",
+      "bytes": 637,
+      "sha256": "34674a51df5c962bfa8f1abb0293e1eadece9cddf7ca90885c288c741c34b83e"
+    },
+    {
+      "path": "reprodutibilidade_tese/historico/v1.0.0/dados/fontes.json",
+      "bytes": 2294,
+      "sha256": "c549eeeec700aac9119e8ca4451df175287fa13d9014b9a87faf87f91928917a"
+    },
+    {
+      "path": "reprodutibilidade_tese/historico/v1.0.0/esperado/valores_tese.json",
+      "bytes": 23254,
+      "sha256": "bb5f4b01b386a88545ab5c0b1028634687672a8dfa51f0035d52357cfde5c772"
+    },
+    {
+      "path": "reprodutibilidade_tese/historico/v1.0.0/README.md",
+      "bytes": 7684,
+      "sha256": "f1dbdabd644be1ee0e65bbd8d7a751d6f69be914b8e8ad925aa3acc133094a82"
+    },
+    {
+      "path": "reprodutibilidade_tese/historico/v1.0.0/RELATORIO_GERACAO.md",
+      "bytes": 19676,
+      "sha256": "3f6911de1cb6ef502add297ff7fc20d7106161ba5aa5831d7f5fb22f5b13bd84"
+    },
+    {
+      "path": "reprodutibilidade_tese/historico/v1.0.0/requirements.txt",
+      "bytes": 136,
+      "sha256": "60b947d59618f05797bab7b2cc2de6db08f5b60ba3fd99f95ba754c7224fe3f3"
+    },
+    {
+      "path": "reprodutibilidade_tese/historico/v1.0.0/scripts/auditar_pacote.py",
+      "bytes": 3168,
+      "sha256": "6b35c66cd3cd6a4ec362cb779d0495d25c444328fda78092ed7445b108c3b494"
+    },
+    {
+      "path": "reprodutibilidade_tese/historico/v1.0.0/scripts/comum.py",
+      "bytes": 4147,
+      "sha256": "42cbc896483f5355c87a6e9abe6184a89002b8f5a2a960c0d6169ce5cadb56d5"
+    },
+    {
+      "path": "reprodutibilidade_tese/historico/v1.0.0/scripts/executar_testes.py",
+      "bytes": 1780,
+      "sha256": "9c11e4f368b6e01a21b4dd958dd329d8b2e91f86398179140a4a5258ae5e03f6"
+    },
+    {
+      "path": "reprodutibilidade_tese/historico/v1.0.0/scripts/finalizar_relatorio.py",
+      "bytes": 11590,
+      "sha256": "37bb1a6f2f86ae5b9011bd2c3fee3e53cbe0d66746eae732493cae2949c322cf"
+    },
+    {
+      "path": "reprodutibilidade_tese/historico/v1.0.0/scripts/gerar_tudo.py",
+      "bytes": 754,
+      "sha256": "d44c3aeb8c4a12eba8dff78e723dc7cc8e5919663a06e1fefb398f8d54b58590"
+    },
+    {
+      "path": "reprodutibilidade_tese/historico/v1.0.0/scripts/tabela_5_1_latencia.py",
+      "bytes": 1339,
+      "sha256": "d3a62c75c3d79026918630c05dc83aa934df3629b148ae23c535fdfee7b501f5"
+    },
+    {
+      "path": "reprodutibilidade_tese/historico/v1.0.0/scripts/tabela_5_2_erro_termico.py",
+      "bytes": 3033,
+      "sha256": "5abcffbc3cb7b25a7672f676f3880dd21249318521746eb678a9a724ccf933ba"
+    },
+    {
+      "path": "reprodutibilidade_tese/historico/v1.0.0/scripts/tabela_5_5_concordancia.py",
+      "bytes": 1786,
+      "sha256": "445e19ed3a986ac77148ebd88185d3d8d5f9bb5c648f65a160140d4c812bbf35"
+    },
+    {
+      "path": "reprodutibilidade_tese/historico/v1.0.0/scripts/tabela_5_6_recuperacao.py",
+      "bytes": 5574,
+      "sha256": "a76433ec84e72d5691250e562a70c8702c59446f2a082c607507371fa4489649"
+    },
+    {
+      "path": "reprodutibilidade_tese/historico/v1.0.0/scripts/tabela_5_7_supervisao.py",
+      "bytes": 1747,
+      "sha256": "63be44d722ab1eb114ae26d536a617d9a7436ac1aab4c515e3189d3283778d5a"
+    },
+    {
+      "path": "reprodutibilidade_tese/historico/v1.0.0/scripts/verificar_resultados.py",
+      "bytes": 2695,
+      "sha256": "f096de8a9752b463695f190ac2e7217112d6b2ada79e1be52e2773f95ada4210"
+    },
+    {
+      "path": "reprodutibilidade_tese/historico/v1.0.0/testes/test_tabelas.py",
+      "bytes": 4045,
+      "sha256": "4c4e3970ce3552dcfb988ba61e5fea4cb255edb787b0b93b7475547cf141e380"
+    },
+    {
+      "path": "reprodutibilidade_tese/historico/v1.0.0/verificacao/execucao_testes.json",
+      "bytes": 665,
+      "sha256": "9eb7f7dba6d4307c73e901066ac658c76c827c5e52b90cfa025941ce941ee79b"
+    },
+    {
+      "path": "reprodutibilidade_tese/historico/v1.0.0/verificacao/execucao_testes.txt",
+      "bytes": 237,
+      "sha256": "abb678f993f4997a539cfa96c882996a3f996416493dc8fe279ce9a87e488d9a"
+    },
+    {
+      "path": "reprodutibilidade_tese/historico/v1.0.0/verificacao/hashes_codigo.json",
+      "bytes": 2048,
+      "sha256": "cdd21c67574c5a091674b0d83652b296d96f75d20a61d45ca2680e01117ea8fd"
+    },
+    {
+      "path": "reprodutibilidade_tese/historico/v1.0.0/verificacao/seguranca.json",
+      "bytes": 690,
+      "sha256": "aa919b378e6a0485340e40476afd04a23fe2b3eaf42515126d16a6b1ef9f7416"
+    },
+    {
+      "path": "reprodutibilidade_tese/historico/v1.0.0/verificacao/testes.xml",
+      "bytes": 10671,
+      "sha256": "fa480499fe676f22b7270ceb0080a3a61ddc68da12ed0f542e8da5d9678d2ec5"
+    },
+    {
+      "path": "reprodutibilidade_tese/historico/v1.0.0/verificacao/verificacao_valores.json",
+      "bytes": 50568,
+      "sha256": "0d95b160411acb2807e0e566b1913c5e979595bf20a8f0df3b639aa7d2e78d95"
+    },
+    {
+      "path": "reprodutibilidade_tese/historico/v1.0.0/verificacao/verificacao_valores.md",
+      "bytes": 7847,
+      "sha256": "197be189507022d3c26983bd2c6029aee008a96dc60edf73ba07a86a90650362"
+    },
+    {
+      "path": "reprodutibilidade_tese/INCORPORACAO_TESE_v09.md",
+      "bytes": 2508,
+      "sha256": "97aa2bbfd471b166a7f40fcb95048d1c1503b94ee3a4687b05d21f2cf8dc5654"
+    },
+    {
+      "path": "reprodutibilidade_tese/LICENCA_A_DEFINIR.md",
+      "bytes": 643,
+      "sha256": "9659c1fcfea94fe881313188648c3d37bfc92177b2c7ac504b27518798ce0748"
+    },
+    {
+      "path": "reprodutibilidade_tese/README.md",
+      "bytes": 10624,
+      "sha256": "1116b28981921638f37bed1cc871ae85dba4e4ef97a5577c073fe5fcc6b6d764"
+    },
+    {
+      "path": "reprodutibilidade_tese/RELATORIO_GERACAO.md",
+      "bytes": 22246,
+      "sha256": "3a936f8276059115d80741981c60a664fa893601de56e7ecc2f0263c2ff58f41"
+    },
+    {
+      "path": "reprodutibilidade_tese/requirements.txt",
+      "bytes": 136,
+      "sha256": "60b947d59618f05797bab7b2cc2de6db08f5b60ba3fd99f95ba754c7224fe3f3"
+    },
+    {
+      "path": "reprodutibilidade_tese/scripts/auditar_pacote.py",
+      "bytes": 3638,
+      "sha256": "c1b820c213f07a2e2a342d83aba0beb2b1a753fcd1db8f4098d12dc2785b050d"
+    },
+    {
+      "path": "reprodutibilidade_tese/scripts/comum.py",
+      "bytes": 4483,
+      "sha256": "42a90f05a45695a4f2ba40ac11781dd84eb13f3eab39300f274330d7079a2fcb"
+    },
+    {
+      "path": "reprodutibilidade_tese/scripts/empacotar.py",
+      "bytes": 2481,
+      "sha256": "98e4aa1c7e319ead83e5de5eb9b2d05f40d51dc608b66d95bce56c2b44929623"
+    },
+    {
+      "path": "reprodutibilidade_tese/scripts/executar_testes.py",
+      "bytes": 2100,
+      "sha256": "5c008d363ab82f747e118a5dbc377f34b509da40d5c998d7e661814e3b36ef38"
+    },
+    {
+      "path": "reprodutibilidade_tese/scripts/finalizar_relatorio.py",
+      "bytes": 14227,
+      "sha256": "570c3fbaca0d07db1fe20bd251c71b895402933fb40e876d4614927e8d64426a"
+    },
+    {
+      "path": "reprodutibilidade_tese/scripts/gerar_tudo.py",
+      "bytes": 754,
+      "sha256": "d44c3aeb8c4a12eba8dff78e723dc7cc8e5919663a06e1fefb398f8d54b58590"
+    },
+    {
+      "path": "reprodutibilidade_tese/scripts/tabela_5_1_latencia.py",
+      "bytes": 1339,
+      "sha256": "d3a62c75c3d79026918630c05dc83aa934df3629b148ae23c535fdfee7b501f5"
+    },
+    {
+      "path": "reprodutibilidade_tese/scripts/tabela_5_2_erro_termico.py",
+      "bytes": 3285,
+      "sha256": "468caa7e1d7e300d395439ae8c6f87caa192fcf8691e35f7adc827220e3a87d5"
+    },
+    {
+      "path": "reprodutibilidade_tese/scripts/tabela_5_5_concordancia.py",
+      "bytes": 1786,
+      "sha256": "445e19ed3a986ac77148ebd88185d3d8d5f9bb5c648f65a160140d4c812bbf35"
+    },
+    {
+      "path": "reprodutibilidade_tese/scripts/tabela_5_6_recuperacao.py",
+      "bytes": 5574,
+      "sha256": "a76433ec84e72d5691250e562a70c8702c59446f2a082c607507371fa4489649"
+    },
+    {
+      "path": "reprodutibilidade_tese/scripts/tabela_5_7_supervisao.py",
+      "bytes": 1747,
+      "sha256": "63be44d722ab1eb114ae26d536a617d9a7436ac1aab4c515e3189d3283778d5a"
+    },
+    {
+      "path": "reprodutibilidade_tese/scripts/verificar_resultados.py",
+      "bytes": 3079,
+      "sha256": "f9bc496b2359239bf3a5a97192b3f78a41893490bfc36d672b3517f560b4a166"
+    },
+    {
+      "path": "reprodutibilidade_tese/testes/test_tabelas.py",
+      "bytes": 5024,
+      "sha256": "49810853ae4d77b9f9647588cac823d54557b39975ac16f364d8dcdc639209d7"
+    },
+    {
+      "path": "reprodutibilidade_tese/verificacao/execucao_testes.json",
+      "bytes": 665,
+      "sha256": "9eb7f7dba6d4307c73e901066ac658c76c827c5e52b90cfa025941ce941ee79b"
+    },
+    {
+      "path": "reprodutibilidade_tese/verificacao/execucao_testes.txt",
+      "bytes": 237,
+      "sha256": "abb678f993f4997a539cfa96c882996a3f996416493dc8fe279ce9a87e488d9a"
+    },
+    {
+      "path": "reprodutibilidade_tese/verificacao/hashes_codigo.json",
+      "bytes": 2048,
+      "sha256": "cdd21c67574c5a091674b0d83652b296d96f75d20a61d45ca2680e01117ea8fd"
+    },
+    {
+      "path": "reprodutibilidade_tese/verificacao/LEIA_ME.md",
+      "bytes": 552,
+      "sha256": "d5de67d00d877c4703b139bcec100eebfd0ddaba34ecd853af1c87b1ff00da83"
+    },
+    {
+      "path": "reprodutibilidade_tese/verificacao/seguranca.json",
+      "bytes": 690,
+      "sha256": "aa919b378e6a0485340e40476afd04a23fe2b3eaf42515126d16a6b1ef9f7416"
+    },
+    {
+      "path": "reprodutibilidade_tese/verificacao/testes.xml",
+      "bytes": 10671,
+      "sha256": "fa480499fe676f22b7270ceb0080a3a61ddc68da12ed0f542e8da5d9678d2ec5"
+    },
+    {
+      "path": "reprodutibilidade_tese/verificacao/v1.1.0/execucao_testes.json",
+      "bytes": 749,
+      "sha256": "862ef43dce8fc5817d2ca3147dbb7933d1aad636bbb1765349f14e95a0ad9371"
+    },
+    {
+      "path": "reprodutibilidade_tese/verificacao/v1.1.0/execucao_testes.txt",
+      "bytes": 237,
+      "sha256": "60c6fdfc92b3edb75ef2d68ba585b968279917810f6ed8747ad3895dc908812d"
+    },
+    {
+      "path": "reprodutibilidade_tese/verificacao/v1.1.0/hashes_codigo.json",
+      "bytes": 2295,
+      "sha256": "4981984f3d7cef5d7378b1aff814dde117997e2307e25d2d246ac9cc3943d225"
+    },
+    {
+      "path": "reprodutibilidade_tese/verificacao/v1.1.0/seguranca.json",
+      "bytes": 812,
+      "sha256": "00d67fcbe5ca3c434a3ce542a66b887db77f1fecc76e57381bdfb7c1de161950"
+    },
+    {
+      "path": "reprodutibilidade_tese/verificacao/v1.1.0/testes.xml",
+      "bytes": 10994,
+      "sha256": "deb868a5529cf62c98d9ad5391494c91284f2c0194bdfc9de855a40faac68288"
+    },
+    {
+      "path": "reprodutibilidade_tese/verificacao/v1.1.0/verificacao_valores.json",
+      "bytes": 55846,
+      "sha256": "dcf98f786b0004f771ecf8806d2bfc677d892c87c9685bb04a00ed0ea5ebdab1"
+    },
+    {
+      "path": "reprodutibilidade_tese/verificacao/v1.1.0/verificacao_valores.md",
+      "bytes": 8272,
+      "sha256": "a890d90ebbe09262ac9b2174d7e453161945cc92ccb4eb0446f7aaa63fed573e"
+    },
+    {
+      "path": "reprodutibilidade_tese/verificacao/verificacao_valores.json",
+      "bytes": 50568,
+      "sha256": "0d95b160411acb2807e0e566b1913c5e979595bf20a8f0df3b639aa7d2e78d95"
+    },
+    {
+      "path": "reprodutibilidade_tese/verificacao/verificacao_valores.md",
+      "bytes": 7847,
+      "sha256": "197be189507022d3c26983bd2c6029aee008a96dc60edf73ba07a86a90650362"
+    },
+    {
+      "path": "reprodutibilidade_tese/VERSION",
+      "bytes": 6,
+      "sha256": "1575e1af4a95f12f70b4ee6a6adce8160953d93ea17dc2611b90883ccc3ad3b8"
+    }
+  ],
+  "crc_verified": true,
+  "member_hashes_verified": true,
+  "access": "Copia local; sem publicacao nem confirmacao de entrega",
+  "source_scan": {
+    "files_scanned": 107,
+    "sensitive_findings": [],
+    "personal_data_signals": [],
+    "undecodable_files": [],
+    "files_over_50mb": [],
+    "signatures": "S01-S09: na ordem dos nove termos literais do pedido; S10: dominio de banco gerenciado; P01: email; P02: CPF; P03: perfil pessoal Windows",
+    "scope": "Arquivos avulsos de dados, codigo, documentos, saida, historico e verificacao; excluidos metadados Git, dependencias/cache temporarios e distribuicao. O ZIP e validado separadamente por igualdade de bytes com as fontes examinadas e inventario de membros em empacotar.py",
+    "manual_review": "Eventos E13/E14 e campos dos arquivos importados examinados; sem nomes de pessoas nos eventos. Identificadores tecnicos da bancada preservados; revisao automatica nao e garantia de anonimato completo."
+  }
+}
